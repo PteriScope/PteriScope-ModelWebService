@@ -1,0 +1,6 @@
+tensorflow==2.11.1
+flask
+gunicorn
+git+https://github.com/qubvel/classification_models.git
+Pillow==10.0.1
+numpy==1.24.3
